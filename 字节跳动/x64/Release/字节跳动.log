@@ -1,0 +1,23 @@
+﻿生成启动时间为 2020/9/20 22:03:18。
+     1>项目“C:\Users\Jonye\Desktop\interview_test\字节跳动\字节跳动.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt "字节第一题.cpp" "字节第二题.cpp"
+         字节第一题.cpp
+         字节第二题.cpp
+     1>字节第二题.cpp(56): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+       Link:
+         D:\VS\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jonye\Desktop\interview_test\x64\Release\字节跳动.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Jonye\Desktop\interview_test\x64\Release\字节跳动.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jonye\Desktop\interview_test\x64\Release\字节跳动.lib" /MACHINE:X64 "x64\Release\字节第一题.obj"
+         "x64\Release\字节第三题.obj"
+         "x64\Release\字节第二题.obj"
+         "x64\Release\字节第四题.obj"
+         正在生成代码
+         153 of 153 functions (100.0%) were compiled, the rest were copied from previous compilation.
+           150 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         已完成代码的生成
+         字节跳动.vcxproj -> C:\Users\Jonye\Desktop\interview_test\x64\Release\字节跳动.exe
+     1>已完成生成项目“C:\Users\Jonye\Desktop\interview_test\字节跳动\字节跳动.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.14

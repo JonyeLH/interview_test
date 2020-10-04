@@ -1,0 +1,16 @@
+﻿  字节第二题.cpp
+c:\users\12185\desktop\interview\interview\字节跳动\字节第二题.cpp(242): warning C4068: 未知的杂注
+c:\users\12185\desktop\interview\interview\字节跳动\字节第二题.cpp(284): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\12185\desktop\interview\interview\字节跳动\字节第二题.cpp(284): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\12185\desktop\interview\interview\字节跳动\字节第二题.cpp(284): note: 请考虑在格式字符串中使用“%Id”
+  c:\users\12185\desktop\interview\interview\字节跳动\字节第二题.cpp(284): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\12185\desktop\interview\interview\字节跳动\字节第二题.cpp(285): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\12185\desktop\interview\interview\字节跳动\字节第二题.cpp(285): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\12185\desktop\interview\interview\字节跳动\字节第二题.cpp(285): note: 请考虑在格式字符串中使用“%Id”
+  c:\users\12185\desktop\interview\interview\字节跳动\字节第二题.cpp(285): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\12185\desktop\interview\interview\字节跳动\字节第二题.cpp(289): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\12185\desktop\interview\interview\字节跳动\字节第二题.cpp(289): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\12185\desktop\interview\interview\字节跳动\字节第二题.cpp(289): note: 请考虑在格式字符串中使用“%Id”
+  c:\users\12185\desktop\interview\interview\字节跳动\字节第二题.cpp(289): note: 请考虑在格式字符串中使用“%I64d”
+  字节跳动.vcxproj -> C:\Users\12185\Desktop\interview\Interview\x64\Debug\字节跳动.exe
+  字节跳动.vcxproj -> C:\Users\12185\Desktop\interview\Interview\x64\Debug\字节跳动.pdb (Full PDB)

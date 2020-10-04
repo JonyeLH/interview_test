@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\12185\desktop\interview_test\interview_test\源.cpp(194): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\12185\desktop\interview_test\interview_test\源.cpp(209): warning C4018: “<”: 有符号/无符号不匹配
+  interview_test.vcxproj -> C:\Users\12185\Desktop\interview_test\Debug\interview_test.exe
+  interview_test.vcxproj -> C:\Users\12185\Desktop\interview_test\Debug\interview_test.pdb (Full PDB)

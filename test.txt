@@ -1,0 +1,10 @@
+输入“&Abcd *ef Gh 3i”
+输出 abcdefGh3i
+
+
+测试另外主机上操作git
+<<<<<<< HEAD:Interview/鏂板缓鏂囨湰鏂囨。.txt
+testPc1
+=======
+test
+>>>>>>> ed69b5a90d591f883df08e457804c7a284233e6e:Interview/test.txt

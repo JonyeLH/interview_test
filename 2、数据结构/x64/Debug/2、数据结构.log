@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (2、数据结构.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  4、String.cpp
+c:\users\12185\desktop\interview\interview\2、数据结构\4、string.cpp(125): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\12185\desktop\interview\interview\2、数据结构\4、string.cpp(126): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\12185\desktop\interview\interview\2、数据结构\4、string.cpp(178): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\12185\desktop\interview\interview\2、数据结构\4、string.cpp(179): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  6、Graph.cpp
+  5、Tree.cpp
+  3、Queue.cpp
+  2、Stack.cpp
+  1、ListNode.cpp
+  2、数据结构.vcxproj -> C:\Users\12185\Desktop\interview\Interview\x64\Debug\3、数据结构.exe
+  2、数据结构.vcxproj -> C:\Users\12185\Desktop\interview\Interview\x64\Debug\3、数据结构.pdb (Full PDB)

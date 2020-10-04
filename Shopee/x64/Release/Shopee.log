@@ -1,0 +1,9 @@
+﻿  第二题.cpp
+第二题.cpp(23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 117 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Shopee.vcxproj -> C:\Users\12185\Desktop\interview_test\x64\Release\Shopee.exe
+  Shopee.vcxproj -> C:\Users\12185\Desktop\interview_test\x64\Release\Shopee.pdb (Full PDB)

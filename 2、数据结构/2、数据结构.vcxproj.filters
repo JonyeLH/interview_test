@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1、ListNode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2、Stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3、Queue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4、String.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5、Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6、Graph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7、Sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8、Search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bubblesort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Heapsort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Insertsort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mergesort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Quicksort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Quicksort1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Quicksort2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Quicksort3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Quicksort4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Seletesort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Shellsort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="binary_Search.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BST_search.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="biTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Febi_search.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HashTable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Insert_search.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sq_search.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

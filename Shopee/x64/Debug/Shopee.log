@@ -1,0 +1,5 @@
+﻿  第二题.cpp
+c:\users\12185\desktop\interview_test\shopee\第二题.cpp(32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\12185\desktop\interview_test\shopee\第二题.cpp(33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Shopee.vcxproj -> C:\Users\12185\Desktop\interview_test\x64\Debug\Shopee.exe
+  Shopee.vcxproj -> C:\Users\12185\Desktop\interview_test\x64\Debug\Shopee.pdb (Full PDB)
