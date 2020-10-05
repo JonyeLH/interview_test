@@ -1,5 +1,5 @@
 ﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (剑指.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  7.cpp
-g:\interview\interview_test\剑指\7.cpp(26): warning C4717: “rebuild”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+  9cpp.cpp
+g:\interview\interview_test\剑指\9cpp.cpp(36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   剑指.vcxproj -> G:\interview\interview_test\x64\Debug\2、剑指.exe
   剑指.vcxproj -> G:\interview\interview_test\x64\Debug\2、剑指.pdb (Full PDB)
