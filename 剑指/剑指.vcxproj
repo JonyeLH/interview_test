@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10cpp.cpp" />
     <ClCompile Include="3_1.cpp" />
     <ClCompile Include="33.cpp" />
     <ClCompile Include="3_2.cpp" />
@@ -156,6 +157,7 @@
     <ClCompile Include="56_2.cpp" />
     <ClCompile Include="6.cpp" />
     <ClCompile Include="7.cpp" />
+    <ClCompile Include="9cpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
