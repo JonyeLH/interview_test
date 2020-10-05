@@ -46,9 +46,9 @@ void Mergesort(int k[], int n)
 	if (n > 1)
 	{
 		//将数组分为两部分
-		int *list1 = k;
+		int *list1 = k;//k是指首地址，list1的开始是k的第一个元素
 		int list1_size = n / 2;
-		int *list2 = k + n / 2;
+		int *list2 = k + n / 2;//list2的开始是n/2位置元素
 		int list2_size = n - list1_size;
 
 		//递归划分数组成两个子数组

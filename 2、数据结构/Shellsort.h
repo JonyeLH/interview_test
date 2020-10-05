@@ -6,7 +6,7 @@
 #include<algorithm>
 using namespace std;
 
-//通过增大两两比较的间隙来实现
+//通过增大两两比较的间隙来实现,将原来的间距1变成gap
 void Shellsort(int k[], int n)
 {
 	int i, j, temp;

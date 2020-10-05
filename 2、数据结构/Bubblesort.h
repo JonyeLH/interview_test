@@ -23,7 +23,7 @@ void Bubblesort_error(int k[], int n)
 			}
 		}
 	}
-	cout << "共执行了" << count1 << "次比较和" << count2 << "次移动" << endl;
+	//cout << "共执行了" << count1 << "次比较和" << count2 << "次移动" << endl;
 }
 
 //只记住这种！！！！正确的冒泡排序算法
@@ -44,9 +44,10 @@ void Bubblesort(int k[], int n)
 			}
 		}
 	}
-	cout << "共执行了" << count1 << "次比较和" << count2 << "次移动" << endl;
+	//cout << "共执行了" << count1 << "次比较和" << count2 << "次移动" << endl;
 }
 
+//另外的方法
 void Bubblesort_(int k[], int n)
 {
 	int count1 = 0, count2 = 0;
@@ -61,7 +62,7 @@ void Bubblesort_(int k[], int n)
 			}
 		}
 	}
-	cout << "共执行了" << count1 << "次比较和" << count2 << "次移动" << endl;
+	//cout << "共执行了" << count1 << "次比较和" << count2 << "次移动" << endl;
 }
 ////冒泡排序的改进,对于局部无序，大致有序，减少不必要的移动操作			待仔细研究
 //void Bubblesort_modify(int k[], int n)

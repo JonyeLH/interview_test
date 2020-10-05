@@ -15,23 +15,16 @@
 //int main()
 //{
 //	//二分查找
-//	clock_t start, stop;
-//	double duration;
-//	start = clock();
-//
 //	int a[10] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-//
 //	int j = binarySearchByLoop(a, 10, 6);
 //	printf("%d\n", j);
 //
 //	int i = binarySearch(a, 0, 9, 9);
 //	printf("%d\n", i);
 //
-//	stop = clock();
-//	duration = ((double)(stop - start)) / CLK_TCK;
-//	printf("该程序运行的时间是：%f\n", duration);
 //	cout << endl;
 //	cout << endl;
+//
 //
 //
 //	//斐波那契查找
@@ -52,7 +45,7 @@
 //	}
 //	else
 //	{
-//		cout << "未在数组中找到元素:" << key << endl;
+//		cout << "未在数组中找到元素:" << key ;
 //	}
 //	cout << endl;
 //	cout << endl;
@@ -92,7 +85,7 @@
 //	int location;
 //	int target = 4;
 //	location = insertSearch(array, 9, target);
-//	printf("%d\n", location);
+//	cout << "插入查找-元素在表中的位置是:" << location;
 //	cout << endl;
 //	cout << endl;
 //
@@ -100,17 +93,9 @@
 //
 //
 //	//顺序查找
-//	clock_t start_2, stop_2;
-//	double duration_2;
-//	start_2 = clock();
-//
 //	int d[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 //	int z = sq_search(d, 10, 8);
-//	printf("%d\n", z);
-//
-//	stop_2 = clock();
-//	duration_2 = ((double)(stop_2 - start_2)) / CLK_TCK;
-//	printf("该程序运行的时间是：%f\n", duration_2);
+//	cout << "顺序查找-元素在表中的位置是:" << z;
 //	cout << endl;
 //	cout << endl;
 //

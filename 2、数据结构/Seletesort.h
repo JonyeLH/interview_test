@@ -1,5 +1,4 @@
 #pragma once
-#pragma once
 //找出最小的数放在起始位置，每次遍历后面的数，找出次小的数放在已排序序列后面
 #include<iostream>
 #include<math.h>
