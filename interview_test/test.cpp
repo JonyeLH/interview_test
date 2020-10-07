@@ -288,59 +288,133 @@
 
 
 
-#include <iostream>
-#include <vector>
-#include <unordered_map>
-using namespace std;
-
-//int main() {
+//#include <iostream>
+//#include <vector>
+//#include <unordered_map>
+//using namespace std;
 //
-//	char str[] = "glad to test something";
-//	char* p = str;
-//	p++;
-//	cout << p<<endl;
-//	int *p1 = reinterpret_cast<int*>(p);
-//	//cout << *p1 << endl;
-//	p1++;
-//	p = reinterpret_cast<char*>(p1);
-//	printf("result is %s\n", p);
+////int main() {
+////
+////	char str[] = "glad to test something";
+////	char* p = str;
+////	p++;
+////	cout << p<<endl;
+////	int *p1 = reinterpret_cast<int*>(p);
+////	//cout << *p1 << endl;
+////	p1++;
+////	p = reinterpret_cast<char*>(p1);
+////	printf("result is %s\n", p);
+////
+////	system("pause");
+////	return 0;
+////}
+//
+//int main() {
+//	//int n;
+//	//cin >> n;
+//	//vector<int> ans(n);
+//	//unordered_map<int, int> map;
+//	//for (int i = 0; i < n; i++) {
+//	//	cin >> ans[i];
+//	//	map[ans[i]]++;
+//	//}
+//	//int N = ans.size() >> 1;
+//	//for (auto j : map) {
+//	//	if (j.second > N)
+//	//		cout<< j.first<<endl;
+//	//}
+//	int n;
+//	cin >> n;
+//	vector<int> ans(n);
+//	for (int i = 0; i < n; i++) {
+//		cin >> ans[i];
+//	}
+//	int res = 0;
+//	for (int i = 0; i < 32; i++) {
+//		int ones = 0;
+//		for (int j : ans)
+//			ones += (j >> i) & 1;
+//		res += (ones > ans.size() / 2) << i;
+//	}
+//	cout << res << endl;
+//
+//
+//	system("pause");
+//	return -1;
+//
+//}
+//
+
+
+//#include <iostream>
+//int func(int a) {
+//	static int s = 1;
+//	s += a;
+//	return s;
+//}
+//#define fun(a,b) a+b
+//#include <cstdio>
+//int main() {
+//	//int i = 5, j = 1, m = 0;
+//	//do {
+//	//	m += --i + j++;	//先j++=2，再加上i（5），再--(6)，最后在+= --（5）	不是太清楚
+//	//} while (i % 3);
+//	//printf("%d %d %d\n", i--, ++j, m);
+//
+//
+//
+//	//int b = 2 << 3;
+//	//int a = fun(2 << 3, 1) * 5;	//先3，1输入到fun函数=4，然后2<<4=32,最后32*2^4=512		最后的*5不清楚
+//	//cout << a  <<" "<<b<< endl;
+//
+//
+//
+//	//unsigned char a, b,c,d;
+//	//a = 7 ^ 3;	//异或，相同为0，不同为1	0111^0011=0100=4
+//	//b= 2 & 3;	//与，同1为1，其他为0	0010&0011=0010=2
+//	//c = ~2 & 3;	//搞不懂
+//	//d = ~2;		//取反，char为一字节（8位） 2=0000 0010		~2=1111 1101=253
+//	//printf("%d %d %d %d\n", a, b,c,d);
+//
+//
+//
+//	//int s = 1;
+//	//printf("%d %d\n", s = func(s), s = func(s));		//合在一起输出：4 4
+//	////分开之后输出
+//	//printf("%d\n", s = func(s));	//2
+//	//printf("%d\n", s = func(s));	//4
+//
+//
+//
+//	//int array[] = { 1,2,3,4,5 };
+//	//int*ptr = array;	//ptr指向array的第一位 即1
+//	//*(ptr++) += 123;	//ptr++指向array的第二位 即2	这里的+=123是干扰，对于指针没影响
+//	//printf("%d,%d\n", *ptr, *(ptr + 1));	//第一个输出2，第二个输出后一位内容3
+//
+//
+//
+//
+//	//char s[16];
+//	//char ch[10];
+//	//strncpy_s(s, "hello world", sizeof(s));	//strncpy不拷贝 '\n'	strcpy拷贝全部
+//	//cout << s;	//hello world
+//
+//	//strcpy_s(ch, "hello world");		//ch[10]拷贝后溢出
+//	//cout << ch;	//溢出
+//
+//
+//
+//	//怪题
+//	//int y = 3, x = 3, z = 1;
+//
+//	//printf("%d %d\n" , (++x, y++), z + 2 );	//3 3
+//
+//	//int a = (++x, y++);
+//	//printf("%d %d\n", (++x, y++), z + 2);		//4 3
+//
+//	////cout << (++x, y++)<<z+2;	//4 3
+//
 //
 //	system("pause");
 //	return 0;
 //}
-
-int main() {
-	//int n;
-	//cin >> n;
-	//vector<int> ans(n);
-	//unordered_map<int, int> map;
-	//for (int i = 0; i < n; i++) {
-	//	cin >> ans[i];
-	//	map[ans[i]]++;
-	//}
-	//int N = ans.size() >> 1;
-	//for (auto j : map) {
-	//	if (j.second > N)
-	//		cout<< j.first<<endl;
-	//}
-	int n;
-	cin >> n;
-	vector<int> ans(n);
-	for (int i = 0; i < n; i++) {
-		cin >> ans[i];
-	}
-	int res = 0;
-	for (int i = 0; i < 32; i++) {
-		int ones = 0;
-		for (int j : ans)
-			ones += (j >> i) & 1;
-		res += (ones > ans.size() / 2) << i;
-	}
-	cout << res << endl;
-
-
-	system("pause");
-	return -1;
-
-}
-
