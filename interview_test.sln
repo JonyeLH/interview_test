@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1、interview_test", "interview_test\interview_test.vcxproj", "{CA45A15F-19E9-4399-A96E-81E86EEBA69D}"
 EndProject
@@ -28,6 +28,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "算法", "算法\算法.vcxproj", "{8804AE53-505F-4FAD-A86B-360EA6B5F045}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "科大讯飞", "科大讯飞\科大讯飞.vcxproj", "{EB4BB8AB-25FB-444B-B56C-970C70EB3DA1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "奇安信", "奇安信\奇安信.vcxproj", "{F3413B3E-B1CD-4BC7-803F-145A88DD251E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,14 @@ Global
 		{EB4BB8AB-25FB-444B-B56C-970C70EB3DA1}.Release|x64.Build.0 = Release|x64
 		{EB4BB8AB-25FB-444B-B56C-970C70EB3DA1}.Release|x86.ActiveCfg = Release|Win32
 		{EB4BB8AB-25FB-444B-B56C-970C70EB3DA1}.Release|x86.Build.0 = Release|Win32
+		{F3413B3E-B1CD-4BC7-803F-145A88DD251E}.Debug|x64.ActiveCfg = Debug|x64
+		{F3413B3E-B1CD-4BC7-803F-145A88DD251E}.Debug|x64.Build.0 = Debug|x64
+		{F3413B3E-B1CD-4BC7-803F-145A88DD251E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F3413B3E-B1CD-4BC7-803F-145A88DD251E}.Debug|x86.Build.0 = Debug|Win32
+		{F3413B3E-B1CD-4BC7-803F-145A88DD251E}.Release|x64.ActiveCfg = Release|x64
+		{F3413B3E-B1CD-4BC7-803F-145A88DD251E}.Release|x64.Build.0 = Release|x64
+		{F3413B3E-B1CD-4BC7-803F-145A88DD251E}.Release|x86.ActiveCfg = Release|Win32
+		{F3413B3E-B1CD-4BC7-803F-145A88DD251E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

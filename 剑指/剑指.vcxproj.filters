@@ -48,5 +48,11 @@
     <ClCompile Include="10cpp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\2、数据结构\试题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
