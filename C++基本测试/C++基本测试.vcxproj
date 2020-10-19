@@ -147,8 +147,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="assert().cpp" />
+    <ClCompile Include="Lambda表达式.cpp" />
     <ClCompile Include="sizeof.cpp" />
     <ClCompile Include="STL.cpp" />
+    <ClCompile Include="大小写转换.cpp" />
+    <ClCompile Include="字符串拷贝.cpp" />
     <ClCompile Include="time头文件测试.cpp" />
     <ClCompile Include="二维向量初始化.cpp" />
     <ClCompile Include="字符串转换整型.cpp" />
