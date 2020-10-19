@@ -1,3 +1,4 @@
 ﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (C++基本测试.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
-C:\Users\12185\Desktop\interview\Interview\x64\Debug\4、C++基本测试.exe : fatal error LNK1120: 1 个无法解析的外部命令
+  大小写转换.cpp
+  C++基本测试.vcxproj -> G:\interview\interview_test\x64\Debug\4、C++基本测试.exe
+  C++基本测试.vcxproj -> G:\interview\interview_test\x64\Debug\4、C++基本测试.pdb (Full PDB)

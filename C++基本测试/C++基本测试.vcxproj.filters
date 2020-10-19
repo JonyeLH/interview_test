@@ -36,5 +36,17 @@
     <ClCompile Include="STL.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="字符串拷贝.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Lambda表达式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="assert().cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="大小写转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

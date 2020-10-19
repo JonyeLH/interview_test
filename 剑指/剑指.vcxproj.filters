@@ -48,10 +48,14 @@
     <ClCompile Include="10cpp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="..\2、数据结构\试题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="12.cpp">
+=======
+    <ClCompile Include="..\interview_test\23.cpp">
+>>>>>>> 6714f55c94a58c881c34c1a27ba02c8d0555f4b3
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
