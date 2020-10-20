@@ -1,0 +1,5 @@
+﻿  阿里第一题.cpp
+g:\interview\interview_test\阿里\阿里第一题.cpp(39): warning C4307: “+”: 整型常量溢出
+g:\interview\interview_test\阿里\阿里第一题.cpp(75): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  阿里.vcxproj -> G:\interview\interview_test\x64\Debug\阿里.exe
+  阿里.vcxproj -> G:\interview\interview_test\x64\Debug\阿里.pdb (Full PDB)

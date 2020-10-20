@@ -1,0 +1,4 @@
+﻿  神策第一题.cpp
+g:\interview\interview_test\神策\神策第一题.cpp(10): warning C4101: “j”: 未引用的局部变量
+  神策.vcxproj -> G:\interview\interview_test\x64\Debug\神策.exe
+  神策.vcxproj -> G:\interview\interview_test\x64\Debug\神策.pdb (Full PDB)

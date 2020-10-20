@@ -1,0 +1,4 @@
+﻿  建信金科第一题.cpp
+g:\interview\interview_test\建信金科\建信金科第一题.cpp(36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  建信金科.vcxproj -> G:\interview\interview_test\x64\Debug\建信金科.exe
+  建信金科.vcxproj -> G:\interview\interview_test\x64\Debug\建信金科.pdb (Full PDB)
