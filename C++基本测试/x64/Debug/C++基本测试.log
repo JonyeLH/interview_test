@@ -1,4 +1,10 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (C++基本测试.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  大小写转换.cpp
-  C++基本测试.vcxproj -> G:\interview\interview_test\x64\Debug\4、C++基本测试.exe
-  C++基本测试.vcxproj -> G:\interview\interview_test\x64\Debug\4、C++基本测试.pdb (Full PDB)
+﻿生成启动时间为 2020/10/20 16:15:29。
+     1>项目“C:\Users\Jonye\Desktop\Interview\C++基本测试\C++基本测试.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (C++基本测试.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         C++基本测试.vcxproj -> C:\Users\Jonye\Desktop\Interview\x64\Debug\4、C++基本测试.exe
+     1>已完成生成项目“C:\Users\Jonye\Desktop\Interview\C++基本测试\C++基本测试.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.12

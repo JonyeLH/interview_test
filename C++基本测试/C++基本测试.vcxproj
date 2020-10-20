@@ -157,6 +157,7 @@
     <ClCompile Include="二维向量初始化.cpp" />
     <ClCompile Include="字符串转换整型.cpp" />
     <ClCompile Include="截取字符串函数substr().cpp" />
+    <ClCompile Include="源.cpp" />
     <ClCompile Include="结构体内存对齐.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
