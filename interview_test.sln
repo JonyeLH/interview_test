@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1、interview_test", "interview_test\interview_test.vcxproj", "{CA45A15F-19E9-4399-A96E-81E86EEBA69D}"
 EndProject
@@ -25,11 +25,17 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字节跳动", "字节跳�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3、数据结构", "2、数据结构\2、数据结构.vcxproj", "{8A881D35-A7AE-4458-A92A-4BB6601478D0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "算法", "算法\算法.vcxproj", "{8804AE53-505F-4FAD-A86B-360EA6B5F045}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5、Leetcode", "算法\算法.vcxproj", "{8804AE53-505F-4FAD-A86B-360EA6B5F045}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "科大讯飞", "科大讯飞\科大讯飞.vcxproj", "{EB4BB8AB-25FB-444B-B56C-970C70EB3DA1}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "奇安信", "奇安信\奇安信.vcxproj", "{F3413B3E-B1CD-4BC7-803F-145A88DD251E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "神策", "神策\神策.vcxproj", "{A1AAC799-2149-4BBC-802D-81DC30704AD4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "阿里", "阿里\阿里.vcxproj", "{C3683884-EA4E-41E2-BC9B-0144848848A4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "建信金科", "建信金科\建信金科.vcxproj", "{8EC10216-7840-4D12-B16D-1224D14BB556}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -151,6 +157,30 @@ Global
 		{F3413B3E-B1CD-4BC7-803F-145A88DD251E}.Release|x64.Build.0 = Release|x64
 		{F3413B3E-B1CD-4BC7-803F-145A88DD251E}.Release|x86.ActiveCfg = Release|Win32
 		{F3413B3E-B1CD-4BC7-803F-145A88DD251E}.Release|x86.Build.0 = Release|Win32
+		{A1AAC799-2149-4BBC-802D-81DC30704AD4}.Debug|x64.ActiveCfg = Debug|x64
+		{A1AAC799-2149-4BBC-802D-81DC30704AD4}.Debug|x64.Build.0 = Debug|x64
+		{A1AAC799-2149-4BBC-802D-81DC30704AD4}.Debug|x86.ActiveCfg = Debug|Win32
+		{A1AAC799-2149-4BBC-802D-81DC30704AD4}.Debug|x86.Build.0 = Debug|Win32
+		{A1AAC799-2149-4BBC-802D-81DC30704AD4}.Release|x64.ActiveCfg = Release|x64
+		{A1AAC799-2149-4BBC-802D-81DC30704AD4}.Release|x64.Build.0 = Release|x64
+		{A1AAC799-2149-4BBC-802D-81DC30704AD4}.Release|x86.ActiveCfg = Release|Win32
+		{A1AAC799-2149-4BBC-802D-81DC30704AD4}.Release|x86.Build.0 = Release|Win32
+		{C3683884-EA4E-41E2-BC9B-0144848848A4}.Debug|x64.ActiveCfg = Debug|x64
+		{C3683884-EA4E-41E2-BC9B-0144848848A4}.Debug|x64.Build.0 = Debug|x64
+		{C3683884-EA4E-41E2-BC9B-0144848848A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{C3683884-EA4E-41E2-BC9B-0144848848A4}.Debug|x86.Build.0 = Debug|Win32
+		{C3683884-EA4E-41E2-BC9B-0144848848A4}.Release|x64.ActiveCfg = Release|x64
+		{C3683884-EA4E-41E2-BC9B-0144848848A4}.Release|x64.Build.0 = Release|x64
+		{C3683884-EA4E-41E2-BC9B-0144848848A4}.Release|x86.ActiveCfg = Release|Win32
+		{C3683884-EA4E-41E2-BC9B-0144848848A4}.Release|x86.Build.0 = Release|Win32
+		{8EC10216-7840-4D12-B16D-1224D14BB556}.Debug|x64.ActiveCfg = Debug|x64
+		{8EC10216-7840-4D12-B16D-1224D14BB556}.Debug|x64.Build.0 = Debug|x64
+		{8EC10216-7840-4D12-B16D-1224D14BB556}.Debug|x86.ActiveCfg = Debug|Win32
+		{8EC10216-7840-4D12-B16D-1224D14BB556}.Debug|x86.Build.0 = Debug|Win32
+		{8EC10216-7840-4D12-B16D-1224D14BB556}.Release|x64.ActiveCfg = Release|x64
+		{8EC10216-7840-4D12-B16D-1224D14BB556}.Release|x64.Build.0 = Release|x64
+		{8EC10216-7840-4D12-B16D-1224D14BB556}.Release|x86.ActiveCfg = Release|Win32
+		{8EC10216-7840-4D12-B16D-1224D14BB556}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
