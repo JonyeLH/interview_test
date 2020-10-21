@@ -1,4 +1,4 @@
 ﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (C++基本测试.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  大小写转换.cpp
+  左值、右值.cpp
   C++基本测试.vcxproj -> G:\interview\interview_test\x64\Debug\4、C++基本测试.exe
   C++基本测试.vcxproj -> G:\interview\interview_test\x64\Debug\4、C++基本测试.pdb (Full PDB)

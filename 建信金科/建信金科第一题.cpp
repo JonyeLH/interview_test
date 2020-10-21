@@ -40,3 +40,41 @@
 //
 //	return 0;
 //}
+
+
+
+
+
+
+
+
+//#include <iostream>
+//#include <vector>
+//#include <unordered_map>
+//using namespace std;
+//
+//int main() {
+//	int n;
+//	cin >> n;
+//	unordered_map<int, int> map;
+//	while (n != NULL) {
+//		cin >> n;
+//		map[n]++;
+//	}
+//
+//
+//	//int n,temp;
+//	//cin >> n;
+//	//unordered_map<int, int> map;
+//	//for (int i = 0; i < n; i++) {
+//	//	cin >>temp;
+//	//	map[temp]++;
+//	//}
+//
+//	for (auto j : map) {
+//		if (j.second == 1)
+//			cout << j.first;
+//	}
+//
+//	return 0;
+//}
