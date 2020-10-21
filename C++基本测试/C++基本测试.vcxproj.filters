@@ -48,7 +48,11 @@
     <ClCompile Include="大小写转换.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="左值、右值.cpp">
+=======
+    <ClCompile Include="源.cpp">
+>>>>>>> 89624044c175f190099345ec2f6c111052c25d2f
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
