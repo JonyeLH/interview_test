@@ -17,7 +17,7 @@ using namespace std;
 
 int main() {
 	//冒泡排序	时间O(n^2) 空间O(1)	  稳定算法    n小时较好
-	int i, a[10] = { 1, 0, 2 ,3 ,4 ,5 ,6, 7 ,8 ,9 };
+	int i, a[10] = { 5,2,6,0,3,9,1,7,4,8 };
 	Bubblesort(a, 10);
 	Bubblesort_error(a, 10);		//错误的排序
 	Bubblesort_(a, 10);		//另外的方法

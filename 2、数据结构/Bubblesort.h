@@ -26,7 +26,7 @@ void Bubblesort_error(int k[], int n)
 	//cout << "共执行了" << count1 << "次比较和" << count2 << "次移动" << endl;
 }
 
-//只记住这种！！！！正确的冒泡排序算法
+//正确的冒泡排序算法，将较小的数往前移
 void Bubblesort(int k[], int n)
 {
 	int i, j, temp, count1 = 0, count2 = 0;
@@ -47,7 +47,7 @@ void Bubblesort(int k[], int n)
 	//cout << "共执行了" << count1 << "次比较和" << count2 << "次移动" << endl;
 }
 
-//另外的方法
+//另外的方法,将较大的数往后移
 void Bubblesort_(int k[], int n)
 {
 	int count1 = 0, count2 = 0;

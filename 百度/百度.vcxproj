@@ -147,7 +147,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="百度第一题.cpp" />
-    <ClCompile Include="第三题.cpp" />
+    <ClCompile Include="百度第三题.cpp" />
     <ClCompile Include="百度第二题.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
