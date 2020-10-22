@@ -147,7 +147,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="深信服第一题.cpp" />
-    <ClCompile Include="深信服第三题.cpp" />
     <ClCompile Include="深信服第二题.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
