@@ -146,9 +146,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="第一题.cpp" />
-    <ClCompile Include="第三题.cpp" />
-    <ClCompile Include="第二题.cpp" />
+    <ClCompile Include="华为第一题.cpp" />
+    <ClCompile Include="华为第三题.cpp" />
+    <ClCompile Include="华为第二题.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
