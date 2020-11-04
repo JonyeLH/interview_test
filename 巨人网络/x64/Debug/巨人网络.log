@@ -1,0 +1,6 @@
+﻿  巨人网络第二题cpp.cpp
+g:\interview\interview_test\巨人网络\巨人网络第二题cpp.cpp(25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  巨人网络第一题.cpp
+g:\interview\interview_test\巨人网络\巨人网络第一题.cpp(35): error C2011: “Solution”:“class”类型重定义
+  g:\interview\interview_test\巨人网络\巨人网络第一题.cpp(12): note: 参见“Solution”的声明
+  正在生成代码...
