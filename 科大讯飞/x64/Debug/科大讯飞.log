@@ -1,0 +1,4 @@
+﻿  科大讯飞第二题.cpp
+g:\interview\interview_test\科大讯飞\科大讯飞第二题.cpp(16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  科大讯飞.vcxproj -> G:\interview\interview_test\x64\Debug\科大讯飞.exe
+  科大讯飞.vcxproj -> G:\interview\interview_test\x64\Debug\科大讯飞.pdb (Full PDB)

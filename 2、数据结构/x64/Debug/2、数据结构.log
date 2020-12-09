@@ -1,5 +1,4 @@
 ﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (2、数据结构.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  7、Sort.cpp
-g:\interview\interview_test\2、数据结构\7、sort.cpp(69): warning C4101: “u”: 未引用的局部变量
+  vector.cpp
   2、数据结构.vcxproj -> G:\interview\interview_test\x64\Debug\3、数据结构.exe
   2、数据结构.vcxproj -> G:\interview\interview_test\x64\Debug\3、数据结构.pdb (Full PDB)

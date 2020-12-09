@@ -155,6 +155,7 @@
     <ClCompile Include="6、Graph.cpp" />
     <ClCompile Include="7、Sort.cpp" />
     <ClCompile Include="8、Search.cpp" />
+    <ClCompile Include="vector.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="binary_Search.h" />
